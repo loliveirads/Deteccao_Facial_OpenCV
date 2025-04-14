@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "cap-06"
+version = "0.1.0"
+description = ""
+authors = ["Luiz Fernando <luizfsoliveira.lm@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+face-recognition-models = "^0.3.0"
+opencv-python = "^4.11.0.86"
+matplotlib = "^3.10.1"
+
+
+[tool.poetry.group.dev.dependencies]
+notebook = "^7.4.0"
+ipykernel = "^6.29.5"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
