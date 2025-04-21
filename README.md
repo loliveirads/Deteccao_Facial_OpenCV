@@ -16,7 +16,7 @@ O objetivo é demonstrar a viabilidade de um sistema automatizado de retirada de
 ### 1. Clonar o repositório
 
 ```bash
-git clone git@github.com:loliveirads/Deteccao_Facial_OpenCV.git
+git clone https://github.com/loliveirads/Deteccao_Facial_OpenCV.git
 cd Deteccao_Facial_OpenCV
 ```
 
